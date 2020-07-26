@@ -7,6 +7,9 @@ collection of state management lib
 ### [concent](https://github.com/concentjs/concent)
 >  Build-in dependency collection, a predictable、zero-cost-use、progressive、high performance's react develop framework
 
+### [RxEmitter](https://github.com/drawcall/RxEmitter)
+> RxEmitter combines the characteristics of Rxjs and eventBus
+
 ### [react-redux](https://github.com/reduxjs/react-redux)
 > Official React bindings for [Redux](https://github.com/reduxjs/redux).
 
@@ -27,9 +30,6 @@ collection of state management lib
 
 ### [dob-react](https://github.com/dobjs/dob-react)
 > React bindings for [dob](https://github.com/dobjs/dob)
-
-### [RxEmitter](https://github.com/drawcall/RxEmitter)
-> RxEmitter combines the characteristics of Rxjs and eventBus
 
 ### [doux](https://github.com/yisar/doux)
 > Simple reactivity system with composition API.
