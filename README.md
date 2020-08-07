@@ -30,6 +30,9 @@ collection of state management lib
 - [react-tracked](https://github.com/dai-shi/react-tracked) Simple and fast global state with React Context. Eliminate unnecessary re-renders without hassle.
 
 - [icestore](https://github.com/ice-lab/icestore) 🌩 Simple and friendly state for React
+
+- [effector](https://github.com/zerobias/effector) The state manager ☄️
+
 ___
 ## vue
 
