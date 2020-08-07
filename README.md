@@ -1,5 +1,6 @@
 # awesome-state
 collection of state management lib
+![](https://raw.githubusercontent.com/fantasticsoul/assets/master/img/astate.png)
 
 
 ## react
