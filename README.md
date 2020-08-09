@@ -1,8 +1,20 @@
 # awesome-state
 collection of state management lib
-![](https://raw.githubusercontent.com/fantasticsoul/assets/master/img/astate.png)
+
+![bg](https://raw.githubusercontent.com/fantasticsoul/assets/master/img/astate2.jpg)
 
 
+## cross framework
+
+- [redux](https://github.com/reduxjs/redux) Predictable state container for JavaScript apps
+
+- [mobx](https://github.com/mobxjs/mobx) Simple, scalable state management.
+
+- [akita](https://github.com/datorama/akita) 🚀 State Management Tailored-Made for JS Applications
+
+- [effector](https://github.com/zerobias/effector) The state manager ☄️
+
+___
 ## react
 
 - [react-redux](https://github.com/reduxjs/react-redux) Official React bindings for [Redux](https://github.com/reduxjs/redux).
@@ -31,14 +43,16 @@ collection of state management lib
 
 - [icestore](https://github.com/ice-lab/icestore) 🌩 Simple and friendly state for React
 
-- [effector](https://github.com/zerobias/effector) The state manager ☄️
-
 ___
 ## vue
 
 - [vuex](https://github.com/vuejs/vuex) Centralized State Management for Vue.js.
 
 - [mobx-vue](https://github.com/mobxjs/mobx-vue) Vue bindings for [Mobx](https://github.com/mobxjs/mobx)
+
+- [vuet](https://github.com/medatc/vuet) 允许你定义飙车过程的集中式状态管理模式
+
+- [VueFlux](https://github.com/ra1028/VueFlux) ♻️ Unidirectional State Management Architecture for Swift - Inspired by Vuex and Flux
 
 ___
 ## mini-programe
