@@ -1,4 +1,5 @@
 # awesome-state
+
 collection of state management lib
 
 ![bg](https://raw.githubusercontent.com/fantasticsoul/assets/master/img/astate2.jpg)
@@ -13,6 +14,10 @@ collection of state management lib
 - [akita](https://github.com/datorama/akita) 🚀 State Management Tailored-Made for JS Applications
 
 - [effector](https://github.com/zerobias/effector) The state manager ☄️
+
+- [usm](https://github.com/unadlib/usm) 🏖A concise & flexible state model for Redux/MobX/Vuex, etc.
+
+- [storeon](https://github.com/storeon/storeon) 🌩 A tiny (167 bytes) event-based Redux-like state manager for React, Preact, Angular, Vue, and Svelte
 
 ___
 ## react
@@ -34,6 +39,8 @@ ___
 - [easy-peasy](https://github.com/ctrlplusb/easy-peasy) Vegetarian friendly state for React
 
 - [react-easy-state](https://github.com/RisingStack/react-easy-state) Simple React state management. Made with ❤️ and ES6 Proxies.
+
+- [redux-observable](https://github.com/redux-observable/redux-observable) RxJS middleware for action side effects in Redux using "Epics"
 
 - [react-automata](https://github.com/MicheleBertoli/react-automata) A state machine abstraction for React
 
@@ -85,6 +92,8 @@ ___
 ___
 ## mini-programe
 
+- [westore](https://github.com/Tencent/westore) 微信小程序解决方案 - 1KB javascript 覆盖状态管理、跨页通讯、插件开发和云数据库开发
+
 ___
 ## angular
 
@@ -93,6 +102,12 @@ ___
 - [redux-rx](https://github.com/acdlite/redux-rx) RxJS utilities for Redux.
 
 - [RxEmitter](https://github.com/drawcall/RxEmitter) RxEmitter combines the characteristics of Rxjs and eventBus
+
+- [ngxs](https://github.com/ngxs/store) 🚀 NGXS - State Management for Angular
+
+- [mobx-angular](https://github.com/mobxjs/mobx-angular) MobX connector to Angular
+
+- [angular-model](https://github.com/angular-extensions/model) Simple state management with minimalist API, one way data flow, multiple model support and immutable data exposed as RxJS Observable.
 
 ## other
 
