@@ -94,6 +94,8 @@ ___
 
 - [westore](https://github.com/Tencent/westore) 微信小程序解决方案 - 1KB javascript 覆盖状态管理、跨页通讯、插件开发和云数据库开发
 
+- [minii](https://github.com/wwayne/minii) State management for Wechat Mini App 
+
 ___
 ## angular
 
