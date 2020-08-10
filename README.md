@@ -96,6 +96,8 @@ ___
 
 - [minii](https://github.com/wwayne/minii) State management for Wechat Mini App 
 
+- [herculex](https://github.com/herculesJS/herculex) Predictable state container for alipay mini-program inspired by vuex, redux, immutableJS,elm,rxjs
+
 ___
 ## angular
 
