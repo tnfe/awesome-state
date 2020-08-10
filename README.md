@@ -27,11 +27,39 @@ ___
 
 - [constate](https://github.com/diegohaz/constate) React Context + State
 
+- [unstated](https://github.com/jamiebuilds/unstated) State so simple, it goes without saying
+
 - [zustan](https://github.com/react-spring/zustand) 🐻 Bear necessities for state management in React
 
 - [easy-peasy](https://github.com/ctrlplusb/easy-peasy) Vegetarian friendly state for React
 
+- [react-easy-state](https://github.com/RisingStack/react-easy-state) Simple React state management. Made with ❤️ and ES6 Proxies.
+
+- [react-automata](https://github.com/MicheleBertoli/react-automata) A state machine abstraction for React
+
 - [dva](https://github.com/dvajs/dva) Lightweight front-end framework based on redux, redux-saga and react-router.
+
+- [react-copy-write](https://github.com/aweary/react-copy-write) ✍️ Immutable state with a mutable API
+
+- [unistore](https://github.com/developit/unistore) 🌶 350b / 650b state container with component actions for Preact & React
+
+- [kea](https://github.com/keajs/kea) Production Ready State Management for React
+
+- [undux](https://github.com/bcherny/undux) ⚡️ Dead simple state for React. Now with Hooks support.
+
+- [moreartyjs](https://github.com/moreartyjs/moreartyjs) centralized state management for React in pure JavaScript
+
+- [hox](https://github.com/umijs/hox) The next-generation state manager for React.
+
+- [use-persisted-state](https://github.com/donavon/use-persisted-state) A custom React Hook that provides a multi-instance, multi-tab/browser shared and persistent state.
+
+- [marty](https://github.com/martyjs/marty) A Javascript library for state management in React applications
+
+- [TNG-Hooks](https://github.com/getify/TNG-Hooks) Provides React-inspired 'hooks' like useState(..) for stand-alone functions
+
+- [react-hooks-global-state](https://github.com/dai-shi/react-hooks-global-state) 
+
+- [react-hooks-global-state](https://github.com/dai-shi/react-hooks-global-state) Simple global state for React with Hooks API
 
 - [redux-arena](https://github.com/hapood/redux-arena) Bundling reducers, actions, saga and react-component when using Redux
 
