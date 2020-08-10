@@ -101,11 +101,11 @@ ___
 
 - [redux-rx](https://github.com/acdlite/redux-rx) RxJS utilities for Redux.
 
-- [RxEmitter](https://github.com/drawcall/RxEmitter) RxEmitter combines the characteristics of Rxjs and eventBus
-
 - [ngxs](https://github.com/ngxs/store) 🚀 NGXS - State Management for Angular
 
 - [mobx-angular](https://github.com/mobxjs/mobx-angular) MobX connector to Angular
+
+- [RxEmitter](https://github.com/drawcall/RxEmitter) RxEmitter combines the characteristics of Rxjs and eventBus
 
 - [angular-model](https://github.com/angular-extensions/model) Simple state management with minimalist API, one way data flow, multiple model support and immutable data exposed as RxJS Observable.
 
