@@ -45,40 +45,47 @@ ___
 - [doux](https://github.com/yisar/doux) Simple reactivity system with composition API.
 - [react-tracked](https://github.com/dai-shi/react-tracked) Simple and fast global state with React Context. Eliminate unnecessary re-renders without hassle.
 - [icestore](https://github.com/ice-lab/icestore) 🌩 Simple and friendly state for React
+- [overmind](https://github.com/cerebral/overmind) Overmind - Frictionless state management
+- [outstated](https://github.com/yamalight/outstated) Simple hooks-based state management for React
+- [pure-store](https://github.com/gunn/pure-store) A tiny immutable store with type safety.
+- [react-broadcast](https://github.com/ReactTraining/react-broadcast) Reliably communicate state changes to deeply nested React elements
+- [react-nano-state](https://github.com/kof/react-nano-state) Fast state that can be shared across components outside of the React tree
+- [react-sweet-state](https://github.com/atlassian/react-sweet-state) Shared state management solution for React
+- [stamen](https://github.com/forsigner/stamen) A React state management library based on Hooks
+- [rex-state](https://github.com/daniakash/rex-state) The simplest state management tool for React
+- [statux](https://github.com/franciscop/statux) ⚛️ A minimal state management library for React with Hooks and immutable state
+- [reworm](https://github.com/pedronauck/reworm) 🍫 the simplest way to manage state
+- [remx](https://github.com/wix/remx) Opinionated mobx
 ___
 ## vue
 
 - [vuex](https://github.com/vuejs/vuex) Centralized State Management for Vue.js.
-
 - [mobx-vue](https://github.com/mobxjs/mobx-vue) Vue bindings for [Mobx](https://github.com/mobxjs/mobx)
-
 - [vuet](https://github.com/medatc/vuet) 允许你定义飙车过程的集中式状态管理模式
-
 - [VueFlux](https://github.com/ra1028/VueFlux) ♻️ Unidirectional State Management Architecture for Swift - Inspired by Vuex and Flux
+- [vue-rx](https://github.com/vuejs/vue-rx) 👁️ RxJS integration for Vue.js.
+- [vuex-observable](https://github.com/vuejs/vuex-observable) Consume Vuex actions as Observables using RxJS 5
+- [vue-reactive-store](https://github.com/mdartic/vue-reactive-store) A VueX alternative : declarative + reactive + centralized way to structure your data store. Inspired by VueX and Vue.js . Compatible with vue-devtools.
+- [vuex-stores](https://github.com/ElMassimo/vuex-stores) 🗄 Store objects for Vuex, a simple and more fluid API for state-management.
 
 ___
 ## mini-programe
 
 - [westore](https://github.com/Tencent/westore) 微信小程序解决方案 - 1KB javascript 覆盖状态管理、跨页通讯、插件开发和云数据库开发
-
 - [minii](https://github.com/wwayne/minii) State management for Wechat Mini App 
-
 - [herculex](https://github.com/herculesJS/herculex) Predictable state container for alipay mini-program inspired by vuex, redux, immutableJS,elm,rxjs
 
 ___
 ## angular
 
 - [ng-redux](https://github.com/angular-redux/ng-redux) Angular bindings for [Redux](https://github.com/reduxjs/redux).
-
 - [redux-rx](https://github.com/acdlite/redux-rx) RxJS utilities for Redux.
-
 - [ngxs](https://github.com/ngxs/store) 🚀 NGXS - State Management for Angular
-
 - [mobx-angular](https://github.com/mobxjs/mobx-angular) MobX connector to Angular
-
 - [RxEmitter](https://github.com/drawcall/RxEmitter) RxEmitter combines the characteristics of Rxjs and eventBus
-
 - [angular-model](https://github.com/angular-extensions/model) Simple state management with minimalist API, one way data flow, multiple model support and immutable data exposed as RxJS Observable.
+- [ngx-model](https://github.com/tomastrajan/ngx-model) Angular Model. Simple state management with minimalistic API, one way data flow, multiple model support and immutable data exposed as RxJS Observable.
+- [tinystate](https://github.com/SebastianM/tinystate) A tiny, yet powerful state management library for Angular
 
 ## other
 
