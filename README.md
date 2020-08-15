@@ -56,6 +56,7 @@ ___
 - [statux](https://github.com/franciscop/statux) ⚛️ A minimal state management library for React with Hooks and immutable state
 - [reworm](https://github.com/pedronauck/reworm) 🍫 the simplest way to manage state
 - [remx](https://github.com/wix/remx) Opinionated mobx
+- [vuex-redux](https://github.com/qinjialei24/vuex-redux) Make Redux as simple as Vuex
 ___
 ## vue
 
