@@ -13,8 +13,8 @@ collection of state management lib
 - [effector](https://github.com/zerobias/effector) The state manager ☄️
 - [usm](https://github.com/unadlib/usm) 🏖A concise & flexible state model for Redux/MobX/Vuex, etc.
 - [storeon](https://github.com/storeon/storeon) 🌩 A tiny (167 bytes) event-based Redux-like state manager for React, Preact, Angular, Vue, and Svelte
-
-___
+- [xsm](https://github.com/peterluhub/xsm) State Management made eXtraordinarily simple and effective for Angular, React, and Vue
+___ 
 ## react
 
 - [react-redux](https://github.com/reduxjs/react-redux) Official React bindings for [Redux](https://github.com/reduxjs/redux).
@@ -57,6 +57,9 @@ ___
 - [reworm](https://github.com/pedronauck/reworm) 🍫 the simplest way to manage state
 - [remx](https://github.com/wix/remx) Opinionated mobx
 - [vuex-redux](https://github.com/qinjialei24/vuex-redux) Make Redux as simple as Vuex
+- [linkstate](https://github.com/developit/linkstate) Bind events to state. Works with Preact and React.
+- [statty](https://github.com/vesparny/statty) A tiny and unobtrusive state management library for React and Preact apps
+- [freactal](https://github.com/FormidableLabs/freactal) Clean and robust state management for React and React-like libs.
 ___
 ## vue
 
@@ -68,6 +71,8 @@ ___
 - [vuex-observable](https://github.com/vuejs/vuex-observable) Consume Vuex actions as Observables using RxJS 5
 - [vue-reactive-store](https://github.com/mdartic/vue-reactive-store) A VueX alternative : declarative + reactive + centralized way to structure your data store. Inspired by VueX and Vue.js . Compatible with vue-devtools.
 - [vuex-stores](https://github.com/ElMassimo/vuex-stores) 🗄 Store objects for Vuex, a simple and more fluid API for state-management.
+- [Vuex-Alt](https://github.com/ejfrancis/Vuex-Alt) An alternative approach to Vuex helpers for accessing state, getters and actions that doesn't rely on string constants.
+- [vue-entity-adapter](https://github.com/imanubhardwaj/vue-entity-adapter) Package to maintain entities in Vuex.
 
 ___
 ## mini-programe
@@ -76,6 +81,14 @@ ___
 - [minii](https://github.com/wwayne/minii) State management for Wechat Mini App 
 - [herculex](https://github.com/herculesJS/herculex) Predictable state container for alipay mini-program inspired by vuex, redux, immutableJS,elm,rxjs
 - [mp-store](https://github.com/imtaotao/mp-store) 轻量级的小程序状态管理库
+- [wxMiniStore](https://github.com/xiaoyao96/wxMiniStore)一个基于微信小程序的mini全局状态管理库
+- [mobx-wxapp](https://github.com/b5156/mobx-wxapp) 在小程序中使用mobx
+- [mobx-miniprogram-bindings](https://github.com/wechat-miniprogram/mobx-miniprogram-bindings) 小程序的 MobX 绑定辅助库
+- [Wepy-Redux](https://github.com/Chris-wei/Wepy-Redux) 微信小程序wepy框架接入 Redux 状态管理
+- [weapp_expressTime](https://github.com/super456/weapp_expressTime)微信小程序之物流状态时间轴简单模板样式 
+- [mp-store](https://github.com/imtaotao/mp-store) 轻量级的小程序状态管理库
+- [wxappStore](https://github.com/SBDavid/wxappStore) 微信小程序全局状态管理，并提供Vuex的开发体验
+- [wxMiniStore](https://github.com/xiaoyao96/wxMiniStore) 微信小程序全局状态管理，并提供Vuex的开发体验
 
 ___
 ## angular
@@ -92,3 +105,11 @@ ___
 ## other
 
 - [RxAndroid](https://github.com/ReactiveX/RxAndroid) Reactive Extensions for Android
+- [flutter-provide](https://github.com/google/flutter-provide) A simple framework for state management in Flutter.
+- [bloc](https://github.com/felangel/bloc) A predictable state management library that helps implement the BLoC design pattern
+- [mobx.dart](https://github.com/mobxjs/mobx.dart) MobX for the Dart language. Hassle-free, reactive state-management for your Dart and Flutter apps.
+- [multiple-counters-flutter](https://github.com/bizz84/multiple-counters-flutter) Flutter State Management [ setState ❖ StreamBuilder ❖ scoped_model ❖ redux ]
+- [flutter-native-state](https://github.com/littlerobots/flutter-native-state) Flutter plugin to help restoring state after the app process was killed
+- [easy](https://github.com/jonataslaw/easy) The easiest state manager for Flutter.
+- [Reflow](https://github.com/Zepo/Reflow) A unidirectional data flow framework for Objective-C inspired by Flux, Redux and Vue.
+
