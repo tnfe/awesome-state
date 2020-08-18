@@ -104,6 +104,7 @@ ___
 
 ## other
 
+- [fish-redux](https://github.com/alibaba/fish-redux) An assembled flutter application framework.
 - [RxAndroid](https://github.com/ReactiveX/RxAndroid) Reactive Extensions for Android
 - [flutter-provide](https://github.com/google/flutter-provide) A simple framework for state management in Flutter.
 - [bloc](https://github.com/felangel/bloc) A predictable state management library that helps implement the BLoC design pattern
