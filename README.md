@@ -88,7 +88,7 @@ ___
 - [weapp_expressTime](https://github.com/super456/weapp_expressTime)微信小程序之物流状态时间轴简单模板样式 
 - [mp-store](https://github.com/imtaotao/mp-store) 轻量级的小程序状态管理库
 - [wxappStore](https://github.com/SBDavid/wxappStore) 微信小程序全局状态管理，并提供Vuex的开发体验
-- [wxMiniStore](https://github.com/xiaoyao96/wxMiniStore) 微信小程序全局状态管理，并提供Vuex的开发体验
+- [wxMiniStore](https://github.com/xiaoyao96/wxMiniStore) 一个基于微信小程序的mini全局状态管理库
 
 ___
 ## angular
