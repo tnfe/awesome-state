@@ -17,6 +17,8 @@ collection of state management lib
 ___ 
 ## react
 
+- [flux](https://github.com/facebook/flux) Application Architecture for Building User Interfaces
+- [reflux](https://github.com/reflux/refluxjs) A simple library for uni-directional dataflow application architecture with React extensions inspired by Flux
 - [react-redux](https://github.com/reduxjs/react-redux) Official React bindings for [Redux](https://github.com/reduxjs/redux).
 - [mobx-react](https://github.com/mobxjs/mobx-react) Official React bindings for [Mobx](https://github.com/mobxjs/mobx)
 - [concent](https://github.com/concentjs/concent) ❤️ Build-in dependency collection, a predictable、zero-cost-use、progressive、high performance's react develop framework
