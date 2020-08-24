@@ -23,7 +23,7 @@ ___
 - [rematch](https://github.com/rematch/rematch) REmatch, a complete binary diffing framework that is free and strives to be open source and community driven.
 - [constate](https://github.com/diegohaz/constate) React Context + State
 - [unstated](https://github.com/jamiebuilds/unstated) State so simple, it goes without saying
-- [zustan](https://github.com/react-spring/zustand) 🐻 Bear necessities for state management in React
+- [zustand](https://github.com/react-spring/zustand) 🐻 Bear necessities for state management in React
 - [easy-peasy](https://github.com/ctrlplusb/easy-peasy) Vegetarian friendly state for React
 - [react-easy-state](https://github.com/RisingStack/react-easy-state) Simple React state management. Made with ❤️ and ES6 Proxies.
 - [redux-observable](https://github.com/redux-observable/redux-observable) RxJS middleware for action side effects in Redux using "Epics"
