@@ -115,4 +115,5 @@ ___
 - [flutter-native-state](https://github.com/littlerobots/flutter-native-state) Flutter plugin to help restoring state after the app process was killed
 - [easy](https://github.com/jonataslaw/easy) The easiest state manager for Flutter.
 - [Reflow](https://github.com/Zepo/Reflow) A unidirectional data flow framework for Objective-C inspired by Flux, Redux and Vue.
+- [https://github.com/RedBrogdon/rebloc](A state management library for Flutter that combines aspects of Redux and BLoC.)
 
