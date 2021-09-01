@@ -108,6 +108,7 @@ ___
 - [angular-model](https://github.com/angular-extensions/model) Simple state management with minimalist API, one way data flow, multiple model support and immutable data exposed as RxJS Observable.
 - [ngx-model](https://github.com/tomastrajan/ngx-model) Angular Model. Simple state management with minimalistic API, one way data flow, multiple model support and immutable data exposed as RxJS Observable.
 - [tinystate](https://github.com/SebastianM/tinystate) A tiny, yet powerful state management library for Angular
+- [ng-simple-state](https://www.npmjs.com/package/ng-simple-state) Simplex state management based on Rxjs and service
 
 ## other
 
