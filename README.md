@@ -18,9 +18,10 @@ This is especially the case when the state of any particular message or form on 
 - [usm](https://github.com/unadlib/usm) 🏖A concise & flexible state model for Redux/MobX/Vuex, etc.
 - [storeon](https://github.com/storeon/storeon) 🌩 A tiny (167 bytes) event-based Redux-like state manager for React, Preact, Angular, Vue, and Svelte
 - [xsm](https://github.com/peterluhub/xsm) State Management made eXtraordinarily simple and effective for Angular, React, and Vue
-___ 
+___
 ## react
 
+- [eventrix](https://github.com/rstgroup/eventrix) Scaling and predictable JS library for state managing and centralizing application global state.
 - [flux](https://github.com/facebook/flux) Application Architecture for Building User Interfaces
 - [reflux](https://github.com/reflux/refluxjs) A simple library for uni-directional dataflow application architecture with React extensions inspired by Flux
 - [react-redux](https://github.com/reduxjs/react-redux) Official React bindings for [Redux](https://github.com/reduxjs/redux).
@@ -44,7 +45,7 @@ ___
 - [use-persisted-state](https://github.com/donavon/use-persisted-state) A custom React Hook that provides a multi-instance, multi-tab/browser shared and persistent state.
 - [marty](https://github.com/martyjs/marty) A Javascript library for state management in React applications
 - [TNG-Hooks](https://github.com/getify/TNG-Hooks) Provides React-inspired 'hooks' like useState(..) for stand-alone functions
-- [react-hooks-global-state](https://github.com/dai-shi/react-hooks-global-state) 
+- [react-hooks-global-state](https://github.com/dai-shi/react-hooks-global-state)
 - [react-hooks-global-state](https://github.com/dai-shi/react-hooks-global-state) Simple global state for React with Hooks API
 - [redux-arena](https://github.com/hapood/redux-arena) Bundling reducers, actions, saga and react-component when using Redux
 - [dob-react](https://github.com/dobjs/dob-react) React bindings for [dob](https://github.com/dobjs/dob)
@@ -87,14 +88,14 @@ ___
 ## mini-programe
 
 - [westore](https://github.com/Tencent/westore) 微信小程序解决方案 - 1KB javascript 覆盖状态管理、跨页通讯、插件开发和云数据库开发
-- [minii](https://github.com/wwayne/minii) State management for Wechat Mini App 
+- [minii](https://github.com/wwayne/minii) State management for Wechat Mini App
 - [herculex](https://github.com/herculesJS/herculex) Predictable state container for alipay mini-program inspired by vuex, redux, immutableJS,elm,rxjs
 - [mp-store](https://github.com/imtaotao/mp-store) 轻量级的小程序状态管理库
 - [wxMiniStore](https://github.com/xiaoyao96/wxMiniStore)一个基于微信小程序的mini全局状态管理库
 - [mobx-wxapp](https://github.com/b5156/mobx-wxapp) 在小程序中使用mobx
 - [mobx-miniprogram-bindings](https://github.com/wechat-miniprogram/mobx-miniprogram-bindings) 小程序的 MobX 绑定辅助库
 - [Wepy-Redux](https://github.com/Chris-wei/Wepy-Redux) 微信小程序wepy框架接入 Redux 状态管理
-- [weapp_expressTime](https://github.com/super456/weapp_expressTime)微信小程序之物流状态时间轴简单模板样式 
+- [weapp_expressTime](https://github.com/super456/weapp_expressTime)微信小程序之物流状态时间轴简单模板样式
 - [mp-store](https://github.com/imtaotao/mp-store) 轻量级的小程序状态管理库
 - [wxappStore](https://github.com/SBDavid/wxappStore) 微信小程序全局状态管理，并提供Vuex的开发体验
 - [wxMiniStore](https://github.com/xiaoyao96/wxMiniStore) 一个基于微信小程序的mini全局状态管理库
@@ -124,4 +125,3 @@ ___
 - [easy](https://github.com/jonataslaw/easy) The easiest state manager for Flutter.
 - [Reflow](https://github.com/Zepo/Reflow) A unidirectional data flow framework for Objective-C inspired by Flux, Redux and Vue
 - [rebloc](https://github.com/RedBrogdon/rebloc) A state management library for Flutter that combines aspects of Redux and BLoC.
-
