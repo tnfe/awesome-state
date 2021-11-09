@@ -67,6 +67,8 @@ ___
 - [statty](https://github.com/vesparny/statty) A tiny and unobtrusive state management library for React and Preact apps
 - [freactal](https://github.com/FormidableLabs/freactal) Clean and robust state management for React and React-like libs.
 - [react-3ducks](https://github.com/smakazmi/react-3ducks) Simple state management solution for React
+- [teaful](https://github.com/teafuljs/teaful) Tiny, easy and powerful React state management
+
 ___
 ## vue
 
