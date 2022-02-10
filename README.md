@@ -13,6 +13,7 @@ This is especially the case when the state of any particular message or form on 
 
 - [redux](https://github.com/reduxjs/redux) Predictable state container for JavaScript apps
 - [mobx](https://github.com/mobxjs/mobx) Simple, scalable state management.
+- [mobx-keystone](https://github.com/xaviergonz/mobx-keystone) A MobX powered state management solution based on data trees with first class support for TypeScript, support for snapshots, patches and much more
 - [akita](https://github.com/datorama/akita) 🚀 State Management Tailored-Made for JS Applications
 - [effector](https://github.com/zerobias/effector) The state manager ☄️
 - [usm](https://github.com/unadlib/usm) 🏖A concise & flexible state model for Redux/MobX/Vuex, etc.
