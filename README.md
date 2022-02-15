@@ -44,6 +44,7 @@ ___
 - [kea](https://github.com/keajs/kea) Production Ready State Management for React
 - [undux](https://github.com/bcherny/undux) ⚡️ Dead simple state for React. Now with Hooks support.
 - [moreartyjs](https://github.com/moreartyjs/moreartyjs) centralized state management for React in pure JavaScript
+- [Hookstate](https://github.com/avkonst/hookstate) The simple but very powerful and incredibly fast state management for React that is based on hooks
 - [hox](https://github.com/umijs/hox) The next-generation state manager for React.
 - [use-persisted-state](https://github.com/donavon/use-persisted-state) A custom React Hook that provides a multi-instance, multi-tab/browser shared and persistent state.
 - [marty](https://github.com/martyjs/marty) A Javascript library for state management in React applications
