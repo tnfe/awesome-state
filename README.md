@@ -24,6 +24,7 @@ This is especially the case when the state of any particular message or form on 
 ___
 ## react
 
+- [recoil](https://recoiljs.org/) A state management library for React.
 - [eventrix](https://github.com/rstgroup/eventrix) Scaling and predictable JS library for state managing and centralizing application global state.
 - [flux](https://github.com/facebook/flux) Application Architecture for Building User Interfaces
 - [reflux](https://github.com/reflux/refluxjs) A simple library for uni-directional dataflow application architecture with React extensions inspired by Flux
