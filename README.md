@@ -89,6 +89,7 @@ ___
 - [vuex-stores](https://github.com/ElMassimo/vuex-stores) 🗄 Store objects for Vuex, a simple and more fluid API for state-management.
 - [Vuex-Alt](https://github.com/ejfrancis/Vuex-Alt) An alternative approach to Vuex helpers for accessing state, getters and actions that doesn't rely on string constants.
 - [vue-entity-adapter](https://github.com/imanubhardwaj/vue-entity-adapter) Package to maintain entities in Vuex.
+- [vc-state](https://github.com/fanhaoyuan/vc-state) 像 React.useContext 一样创建作用域上下文. Easily to compose scoped state in Vue.js
 
 ___
 ## mini-programe
