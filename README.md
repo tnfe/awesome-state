@@ -77,6 +77,7 @@ ___
 ___
 ## vue
 
+- [pinia](https://pinia.vuejs.org/) The Vue Store that you will enjoy using.
 - [vuex](https://github.com/vuejs/vuex) Centralized State Management for Vue.js.
 - [mobx-vue](https://github.com/mobxjs/mobx-vue) Vue bindings for [Mobx](https://github.com/mobxjs/mobx)
 - [vuet](https://github.com/medatc/vuet) 允许你定义飙车过程的集中式状态管理模式
